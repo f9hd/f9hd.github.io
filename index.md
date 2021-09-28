@@ -4,7 +4,7 @@ Limpieza de:
 
 * comunidades
 * garages
-* oficinas</li>
+* oficinas
 * viviendas
 * final de obras
 * otras instalaciones
